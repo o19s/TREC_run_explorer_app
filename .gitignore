@@ -1,0 +1,6 @@
+.Rpro*
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+renv/
